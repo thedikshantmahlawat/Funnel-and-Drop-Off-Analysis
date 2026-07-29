@@ -1,0 +1,6 @@
+step,step_order,sessions,pct_of_home,step_over_step_pct,drop_off_pct
+home,0,5000,100.0,,
+product_page,1,3987,79.74,79.74,20.26
+cart,2,1599,31.98,40.11,59.89
+checkout,3,1123,22.46,70.23,29.77
+confirmation,4,1010,20.2,89.94,10.06
