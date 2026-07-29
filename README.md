@@ -81,7 +81,7 @@ Every single test above came back not significant — device, country, referral 
 
 | Field | Value |
 |---|---|
-| Source | Kaggle — *(add your exact dataset link here)* |
+| Source | Kaggle — *(https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)* |
 | File | `customer_journey.csv` |
 | Rows | 12,719 page-view events |
 | Sessions / Users | 5,000 / 1,872 |
