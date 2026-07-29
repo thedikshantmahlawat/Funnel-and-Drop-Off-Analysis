@@ -1,4 +1,4 @@
 pandas==3.0.5
 scipy==1.18.0
 plotly==6.9.0
-streamlit==1.60.0git 
+streamlit==1.60.0
